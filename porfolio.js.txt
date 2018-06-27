@@ -1,0 +1,6 @@
+var ClickME= document.getElementById('a');
+ClickME.addEventListener('click',function(){
+  var name= prompt('what is your name');
+var yes= prompt ('Hy'  +  name  + 'hope your day is going good?');
+alert ('good to hear that'   + name);
+})

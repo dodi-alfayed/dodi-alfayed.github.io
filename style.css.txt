@@ -1,0 +1,43 @@
+ol {
+  margin:50px;
+  padding:50px;
+  background:black
+    
+  font-size:30px;
+}
+#red{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-weight:bold;
+  background:red;
+}
+#yellow{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-weight:bold;
+  background:yellow
+    }
+#green{
+  margin:50px;
+  padding:50px;
+  font-size:30px;
+  font-weight:bold;
+  background:green
+    }
+#blue{
+  margins:50px;
+  padding:50px;
+  font-size:30px;
+  font-weight:bold;
+  background:blue
+    }
+#purple{
+  margins:50px;
+  padding:50px;
+  font-size:30px;
+  font-weight:bold;
+  background:purple
+    
+}
